@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick Mohale</h1>
 <h3 align="center">A passionate Full-Stack Developer from South Africa</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://medium.com/@ricardojeanpierre/ux-concepts-that-ever-developer-should-know-ba5243b6322f](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ricardojeanpierre%2Fux-concepts-that-ever-developer-should-know-ba5243b6322f&psig=AOvVaw0mSBbarc1VRC92_65FTCPs&ust=1698584543149000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDpoNTmmIIDFQAAAAAdAAAAABAR)">
+<img align="right" alt="Coding" width="400" src="https://medium.com/@ricardojeanpierre/ux-concepts-that-ever-developer-should-know-ba5243b6322f](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ricardojeanpierre%2Fux-concepts-that-ever-developer-should-know-ba5243b6322f&psig=AOvVaw0mSBbarc1VRC92_65FTCPs&ust=1698584543149000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDpoNTmmIIDFQAAAAAdAAAAABAR)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fsoftware-engineer&psig=AOvVaw0mSBbarc1VRC92_65FTCPs&ust=1698584543149000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDpoNTmmIIDFQAAAAAdAAAAABAo)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nick-mohale&label=Profile%20views&color=0e75b6&style=flat" alt="nick-mohale" /> </p>
