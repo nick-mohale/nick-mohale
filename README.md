@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Hospital Management System](https://github.com/nick-mohale/Hospital-Management-System)
 
-- 🌱 I’m currently learning **Angular,TypeScript**
+- 🌱 I’m currently learning **Node.js, React, Angular, noSQL,TypeScript, Restful APIs**
 
 - 💬 Ask me about **ASP.NET, C#, SQL**
 
