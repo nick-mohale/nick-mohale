@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nick-mohale" alt="nick-mohale" /></a> </p>
 
-- 🔭 I’m currently working on [TVStreaingApp]https://nickmohaletvshow.netlify.app/)
+- 🔭 I’m currently working on [TVStreaminggApp]https://nickmohaletvshow.netlify.app/)
 
 - 🌱 I’m currently learning **Node.js, React, Angular, noSQL,TypeScript, Restful APIs**
 
