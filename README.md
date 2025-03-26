@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [TVStreaminggApp]https://nickmohaletvshow.netlify.app/)
 
-- 🌱 I’m currently learning **Node.js, React, Angular, noSQL,TypeScript, Restful APIs**
+- 🌱 I’m currently working **.NET Aspire APIs, .NET MAUI Hybrid for Desktop, Mobile and Web Applications**
 
 - 💬 Ask me about **ASP.NET, C#, SQL**
 
