@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working **.NET Aspire APIs, .NET MAUI Hybrid for Desktop, Mobile and Web Applications**
 
-- 💬 Ask me about **ASP.NET, C#, SQL**
+- 💬 Ask me about **.NET MAUI HYBRID, .NET ASPIRE, .NET MAUI MOBILE APPS(iOS, Android), WEB APPS, DESKTOP APPPS, C#, SQL**
 
 - 📫 How to reach me **nickmohale@gmail.com**
 
